@@ -1,33 +1,10 @@
-Hyperspace by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Obiefuna Uzoma 
+About Me
+I have background in Computer Science and a Postgraduate Degree in Education, transitioning into the world of data analytics with a passion for technology and the transformative power of data. My experience in education has provided me with a unique perspective on fostering understanding and driving decision-making, skills I now apply to analyzing data and delivering actionable insights.
 
+SKILLS:
+analytics tools such as Excel, SQL, Power BI, and Python, enabling me to uncover trends, optimize processes, and improve customer relationship management. My goal is to leverage these skills to contribute meaningfully to data-driven strategies that drive business growth and educational advancements.
 
-So I've had the wireframe for this particular design kicking around for some time, but with all
-the other interesting (and in some cases, semi-secret) projects I've been working on it took me
-a little while to get to actually designing and coding it. Fortunately, things have eased up
-enough for me to finaly get around to it, so I'm happy to introduce Hyperspace: a fun, blocky,
-one-page design with a lot of color, a bit of animation, and an additional "generic" page template
-(because hey, even one-page sites usually need an interior page or two). Hope you dig it :)
+---
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+This version emphasizes your journey, skills, and goals while keeping it concise and relevant for potential employers or connections in the data analytics field.
